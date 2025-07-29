@@ -57,6 +57,8 @@ button {
    width: 140px;
    border-radius: 20px;
    cursor: pointer;
+   font-size: 18px;
+   font-weight: 600;
 }
 
 ul li {
